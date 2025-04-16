@@ -4,7 +4,7 @@ A modern, interactive weather dashboard application built with React and Materia
 
 ## 🚀 Live Demo
 
-Check out the live application at: [Weather Dashboard](https://weather-dashboard-benjaminishimwe.vercel.app/)
+Check out the live application at: [Weather Dashboard](https://weather-dashboard-ashy-xi.vercel.app/)
 
 ## Features
 
