@@ -2,6 +2,10 @@
 
 A modern, interactive weather dashboard application built with React and Material-UI. This application provides real-time weather information, city photos, nearby restaurants, hotels, and interactive maps for any location.
 
+## 🚀 Live Demo
+
+Check out the live application at: [Weather Dashboard](https://weather-dashboard-benjaminishimwe.vercel.app/)
+
 ## Features
 
 - 🌤️ Real-time weather information
